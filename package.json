@@ -1,0 +1,9 @@
+{
+  "name": "field-money",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "gates": "node --test tests/gates.test.mjs"
+  }
+}
